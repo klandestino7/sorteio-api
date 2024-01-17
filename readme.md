@@ -1,4 +1,4 @@
-## Onve API
+## Sorteio API
 API feita em GOlang utilizando a framework Gin para conexões e Mongo DB como banco de dados
 
 
